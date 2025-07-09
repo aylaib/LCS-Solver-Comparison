@@ -34,5 +34,12 @@ The comparative analysis shows that:
 - **DFS** is very efficient for small sequences but its execution time explodes rapidly.
 - **Tabu Search** maintains stable and much lower execution time, even for longer sequences, while providing high-quality solutions.
 For a detailed analysis, comparative graphs and a discussion on complexity, please consult the complete report.
+
+    ## 📌 Citation
+If you use this project, please cite it as:
+
+Ayoub Laib (2025), *Longest Common Subsequence (LCS) Problem Solver*, GitHub repository: https://github.com/aylaib/LCS-Solver-Comparison
+
+
 ## 📚 Reference Documents
 - **[Complete Project Report](./Rapport_Projet_LCS.pdf)** : This document contains the introduction to the LCS problem, detailed description of algorithms, experimental results and their analysis.
